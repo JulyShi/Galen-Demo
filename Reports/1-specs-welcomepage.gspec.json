@@ -1,0 +1,49 @@
+{
+  "testId" : "1-specs-welcomepage.gspec",
+  "name" : "specs/welcomePage.gspec",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Simple check",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "check  specs/welcomePage.gspec --url http://testapp.galenframework.com/ --size 1024x768 --htmlreport Reports -Dwebdriver.chrome.driver=/usr/local/lib/node_modules/galenframework-cli/node_modules/chromedriver/lib/chromedriver/chromedriver -Dwebdriver.gecko.driver=/usr/local/lib/node_modules/galenframework-cli/node_modules/geckodriver/geckodriver",
+        "status" : "info",
+        "nodes" : [ {
+          "name" : "Check layout: specs/welcomePage.gspec included tags: ",
+          "status" : "info",
+          "time" : 1516188146477,
+          "sections" : [ {
+            "name" : "Main section",
+            "place" : {
+              "filePath" : "specs/welcomePage.gspec",
+              "lineNumber" : 7
+            },
+            "objects" : [ {
+              "name" : "login_button",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "specs/welcomePage.gspec",
+                  "lineNumber" : 9
+                },
+                "name" : "text is \"Login\"",
+                "highlight" : [ "login_button" ]
+              } ]
+            } ]
+          } ],
+          "objects" : {
+            "login_button" : {
+              "area" : [ 112, 391, 78, 45 ]
+            }
+          },
+          "screenshot" : "layout-1-screenshot.png",
+          "type" : "layout"
+        } ],
+        "time" : 1516188145452,
+        "type" : "node"
+      } ],
+      "time" : 1516188139214,
+      "type" : "node"
+    } ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "testId" : "4-login-btn-color-of-welocome-page-on-mobile",
+  "name" : "Login Btn color of Welocome page on mobile",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Checking color for login btn",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "Check layout: specs/welcomePage.gspec included tags: usual",
+        "status" : "error",
+        "time" : 1516243970795,
+        "includedTags" : [ "usual" ],
+        "excludedTags" : [ "mobile" ],
+        "sections" : [ {
+          "name" : "Main section",
+          "place" : {
+            "filePath" : "specs/welcomePage.gspec",
+            "lineNumber" : 7
+          },
+          "objects" : [ {
+            "name" : "login_button",
+            "specs" : [ {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 9
+              },
+              "name" : "text is \"Login\"",
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "error",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 13
+              },
+              "name" : "height 70px",
+              "errors" : [ "\"login_button\" height is 45px instead of 70px" ],
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "error",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 30
+              },
+              "name" : "color-scheme 90 to 96 % #2d6ca2, 1 to 4 % white",
+              "errors" : [ "Can't fetch image for \"object\" as it is outside of screenshot" ],
+              "highlight" : [ "login_button" ]
+            } ]
+          } ]
+        } ],
+        "objects" : {
+          "login_button" : {
+            "area" : [ 50, 546, 350, 45 ]
+          }
+        },
+        "screenshot" : "layout-4-screenshot.png",
+        "type" : "layout"
+      } ],
+      "time" : 1516243970142,
+      "type" : "node"
+    }, {
+      "name" : "Checking color for highlighted login btn",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "Hover login button",
+        "status" : "info",
+        "nodes" : [ {
+          "name" : "JavaScriptException: Error: No such element: xpath //*[@css='button-login'] (<cmd>#340)",
+          "status" : "error",
+          "time" : 1516243970846,
+          "stacktrace" : "org.mozilla.javascript.JavaScriptException: Error: No such element: xpath //*[@css='button-login'] (<cmd>#340)\n\tat org.mozilla.javascript.gen._cmd__19._c_anonymous_26(<cmd>:340)\n\tat org.mozilla.javascript.gen._cmd__19.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test____pages_welcomePage_js_21._c_anonymous_2(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/../pages/welcomePage.js:13)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test____pages_welcomePage_js_21.call(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/../pages/welcomePage.js)\n\tat org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2429)\n\tat org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)\n\tat org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)\n\tat org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)\n\tat org.mozilla.javascript.gen._cmd__17._c_invokeFunc_2(<cmd>:31)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)\n\tat org.mozilla.javascript.gen._cmd__17._c_anonymous_47(<cmd>:443)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)\n\tat org.mozilla.javascript.gen._cmd__17._c_logged_43(<cmd>:422)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)\n\tat org.mozilla.javascript.gen._cmd__17._c_anonymous_45(<cmd>:442)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:85)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test_test02_test_js_20._c_anonymous_7(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/test02.test.js:48)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test_test02_test_js_20.call(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/test02.test.js)\n\tat org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)\n\tat org.mozilla.javascript.gen._cmd__17._c_logged_43(<cmd>:422)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test_test02_test_js_20._c_anonymous_5(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/test02.test.js:47)\n\tat org.mozilla.javascript.gen._Users_xyShi_Projects_SHAirport_Galen_Demo1_test_test02_test_js_20.call(/Users/xyShi/Projects/SHAirport/Galen-Demo1/test/test02.test.js)\n\tat org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2429)\n\tat org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)\n\tat org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)\n\tat org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)\n\tat org.mozilla.javascript.gen._cmd__17._c_invokeFunc_2(<cmd>:33)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)\n\tat org.mozilla.javascript.gen._cmd__17._c_anonymous_22(<cmd>:280)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)\n\tat org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3090)\n\tat org.mozilla.javascript.gen._cmd__17.call(<cmd>)\n\tat org.mozilla.javascript.JavaAdapter.doCall(JavaAdapter.java:606)\n\tat org.mozilla.javascript.JavaAdapter.callMethod(JavaAdapter.java:581)\n\tat adapter1.execute(<adapter>)\n\tat com.galenframework.TestRunnable.runTest(TestRunnable.java:75)\n\tat com.galenframework.TestRunnable.run(TestRunnable.java:101)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\n\tat java.lang.Thread.run(Thread.java:745)\n",
+          "type" : "node"
+        } ],
+        "time" : 1516243970795,
+        "type" : "node"
+      } ],
+      "time" : 1516243970795,
+      "type" : "node"
+    } ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "testId" : "4-login-btn-color-of-welocome-page-on-",
+  "name" : "Login Btn color of Welocome page on ",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Checking color for login btn",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "Check layout: specs/welcomePage.gspec included tags: usual",
+        "status" : "info",
+        "time" : 1516250013050,
+        "includedTags" : [ "usual" ],
+        "sections" : [ {
+          "name" : "Main section",
+          "place" : {
+            "filePath" : "specs/welcomePage.gspec",
+            "lineNumber" : 7
+          },
+          "objects" : [ {
+            "name" : "login_button",
+            "specs" : [ {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 9
+              },
+              "name" : "text is \"Login\"",
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 13
+              },
+              "name" : "height 45px",
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 30
+              },
+              "name" : "color-scheme 2% white, 0 to 1 % black, =79% #2d6ca2",
+              "highlight" : [ "login_button" ]
+            } ]
+          } ]
+        } ],
+        "objects" : {
+          "login_button" : {
+            "area" : [ 200, 391, 79, 45 ]
+          }
+        },
+        "screenshot" : "layout-4-screenshot.png",
+        "type" : "layout"
+      } ],
+      "time" : 1516250011944,
+      "type" : "node"
+    }, {
+      "name" : "Checking color for highlighted login btn",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "Hover login button",
+        "status" : "info",
+        "time" : 1516250013050,
+        "type" : "node"
+      }, {
+        "name" : "Check layout: specs/welcomePage.gspec included tags: hovered",
+        "status" : "info",
+        "time" : 1516250013934,
+        "includedTags" : [ "hovered" ],
+        "sections" : [ {
+          "name" : "Main section",
+          "place" : {
+            "filePath" : "specs/welcomePage.gspec",
+            "lineNumber" : 7
+          },
+          "objects" : [ {
+            "name" : "login_button",
+            "specs" : [ {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 9
+              },
+              "name" : "text is \"Login\"",
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 13
+              },
+              "name" : "height 45px",
+              "highlight" : [ "login_button" ]
+            }, {
+              "status" : "info",
+              "place" : {
+                "filePath" : "specs/welcomePage.gspec",
+                "lineNumber" : 35
+              },
+              "name" : "color-scheme 2% white, 0 to 1 % black, < 30% #22A30B",
+              "highlight" : [ "login_button" ]
+            } ]
+          } ]
+        } ],
+        "objects" : {
+          "login_button" : {
+            "area" : [ 200, 391, 79, 45 ]
+          }
+        },
+        "screenshot" : "layout-5-screenshot.png",
+        "type" : "layout"
+      } ],
+      "time" : 1516250013050,
+      "type" : "node"
+    } ]
+  }
+}

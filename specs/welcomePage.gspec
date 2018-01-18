@@ -1,0 +1,35 @@
+@objects
+    login_button        #welcome-page .button-login
+
+@set
+    login_button_text                   Login
+
+= Main section =
+    login_button:
+        text is "${login_button_text}"
+
+    @on *
+        login_button:
+            height 45px
+
+    @on mobile
+        login_button:
+             width 300 to 350 px
+
+    @on tablet
+        login_button:
+             width 75 to 80 px
+
+    @on desktop
+        login_button:
+             width 75 to 80 px
+
+
+    @on usual
+        login_button:
+            color-scheme 2% white, 0 to 1 % black, =79% #2d6ca2
+
+
+    @on hovered
+         login_button:
+            color-scheme 2% white, 0 to 1 % black, < 30% #22A30B

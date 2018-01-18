@@ -1,0 +1,63 @@
+{
+  "tests" : [ {
+    "name" : "Login Btn size of Welocome page on mobile",
+    "startedAt" : 1516260676713,
+    "endedAt" : 1516260682038,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 3,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 3
+    },
+    "testId" : "1-login-btn-size-of-welocome-page-on-mobile",
+    "groups" : [ ],
+    "duration" : 5325,
+    "failed" : false
+  }, {
+    "name" : "Login Btn size of Welocome page on tablet",
+    "startedAt" : 1516260682038,
+    "endedAt" : 1516260686562,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 3,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 3
+    },
+    "testId" : "2-login-btn-size-of-welocome-page-on-tablet",
+    "groups" : [ ],
+    "duration" : 4524,
+    "failed" : false
+  }, {
+    "name" : "Login Btn size of Welocome page on desktop",
+    "startedAt" : 1516260686562,
+    "endedAt" : 1516260690974,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 3,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 3
+    },
+    "testId" : "3-login-btn-size-of-welocome-page-on-desktop",
+    "groups" : [ ],
+    "duration" : 4412,
+    "failed" : false
+  }, {
+    "name" : "Login Btn color of Welocome page on desktop",
+    "startedAt" : 1516260690974,
+    "endedAt" : 1516260696068,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 7,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 7
+    },
+    "testId" : "4-login-btn-color-of-welocome-page-on-desktop",
+    "groups" : [ ],
+    "duration" : 5094,
+    "failed" : false
+  } ]
+}

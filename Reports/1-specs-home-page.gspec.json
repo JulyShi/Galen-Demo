@@ -1,0 +1,49 @@
+{
+  "testId" : "1-specs-home-page.gspec",
+  "name" : "specs/home-page.gspec",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Simple check",
+      "status" : "info",
+      "nodes" : [ {
+        "name" : "check  specs/home-page.gspec --url http://samples.galenframework.com/tutorial1/tutorial1.html --size 1024x768 --htmlreport Reports -Dwebdriver.chrome.driver=/usr/local/lib/node_modules/galenframework-cli/node_modules/chromedriver/lib/chromedriver/chromedriver -Dwebdriver.gecko.driver=/usr/local/lib/node_modules/galenframework-cli/node_modules/geckodriver/geckodriver",
+        "status" : "info",
+        "nodes" : [ {
+          "name" : "Check layout: specs/home-page.gspec included tags: ",
+          "status" : "info",
+          "time" : 1516187328896,
+          "sections" : [ {
+            "name" : "Main section",
+            "place" : {
+              "filePath" : "specs/home-page.gspec",
+              "lineNumber" : 4
+            },
+            "objects" : [ {
+              "name" : "header",
+              "specs" : [ {
+                "status" : "info",
+                "place" : {
+                  "filePath" : "specs/home-page.gspec",
+                  "lineNumber" : 6
+                },
+                "name" : "height 30 to 100px",
+                "highlight" : [ "header" ]
+              } ]
+            } ]
+          } ],
+          "objects" : {
+            "header" : {
+              "area" : [ 0, 0, 1024, 100 ]
+            }
+          },
+          "screenshot" : "layout-1-screenshot.png",
+          "type" : "layout"
+        } ],
+        "time" : 1516187328021,
+        "type" : "node"
+      } ],
+      "time" : 1516187323584,
+      "type" : "node"
+    } ]
+  }
+}
