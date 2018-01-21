@@ -4,7 +4,7 @@
 @set
     login_button_text                   Login
 
-= Main section =
+= Login btn =
     login_button:
         text is "${login_button_text}"
 

@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d586a679-0386-48e9-af23-0d70c55dae49" name="Default" comment="" />
+    <list default="true" id="d586a679-0386-48e9-af23-0d70c55dae49" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selenium_node/selenium-server-standalone-3.8.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selenium_node/nodeconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/click_login_btn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/hover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test04.test.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-login-btn-color-of-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-login-btn-color-of-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-login-btn-size-of-welocome-page-on-mobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-login-btn-size-of-welocome-page-on-mobile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-specs-home-page.gspec.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-specs-home-page.gspec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-specs-welcomepage.gspec.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-specs-welcomepage.gspec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-welocome-page-on-mobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/1-welocome-page-on-mobile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/2-login-btn-size-of-welocome-page-on-tablet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/2-login-btn-size-of-welocome-page-on-tablet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/2-welocome-page-on-tablet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/2-welocome-page-on-tablet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/3-login-btn-size-of-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/3-login-btn-size-of-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/3-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/3-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-mobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-login-btn-color-of-welocome-page-on-mobile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-welocome-page-on-mobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/4-welocome-page-on-mobile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-tablet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-login-btn-color-of-welocome-page-on-tablet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-welocome-page-on-tablet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/5-welocome-page-on-tablet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-login-btn-color-of-welocome-page-on-.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-login-btn-color-of-welocome-page-on-.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-login-btn-color-of-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-login-btn-color-of-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-welocome-page-on-desktop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/6-welocome-page-on-desktop.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/galen-report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/handlebars-v2.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/icon-sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-1-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-2-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-3-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-4-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-5-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-6-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-7-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-8-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/layout-9-screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/report.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/tablesorter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Reports/tablesorter.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/env.js" afterPath="$PROJECT_DIR$/test/event.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/welcomePage.js" afterPath="$PROJECT_DIR$/pages/welcomePage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/welcomePage.gspec" afterPath="$PROJECT_DIR$/specs/welcomePage.gspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test02.test.js" afterPath="$PROJECT_DIR$/test/test02.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test03.test.js" afterPath="$PROJECT_DIR$/test/test03.test.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +85,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="galen.config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/galen.config">
+      <file leaf-file-name="test01.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test01.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="315">
+              <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -28,18 +98,18 @@
       <file leaf-file-name="welcomePage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/welcomePage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test01.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test01.test.js">
+      <file leaf-file-name="click_login_btn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/click_login_btn.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -48,51 +118,28 @@
       <file leaf-file-name="test02.test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test02.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+            <state relative-caret-position="285">
+              <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test03.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test03.test.js">
+      <file leaf-file-name="test04.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test04.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+            <state relative-caret-position="352">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="hover.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/hover.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="env.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/env.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,18 +148,38 @@
       <file leaf-file-name="devices.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/devices.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="165">
+              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="broswers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/broswers.js">
+      <file leaf-file-name="welcomePage.gspec" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/welcomePage.gspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test03.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test03.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/event.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -127,6 +194,7 @@
       <find>medium</find>
       <find>cacheWebElements</find>
       <find>button-login</find>
+      <find>load</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,17 +217,23 @@
         <option value="$PROJECT_DIR$/specs/welcome.gspec" />
         <option value="$PROJECT_DIR$/test/pages/WelcomePage.js" />
         <option value="$PROJECT_DIR$/test/test4.test.js" />
-        <option value="$PROJECT_DIR$/test/test01.test.js" />
         <option value="$PROJECT_DIR$/specs/home-page.gspec" />
-        <option value="$PROJECT_DIR$/specs/welcomePage.gspec" />
-        <option value="$PROJECT_DIR$/test/test02.test.js" />
-        <option value="$PROJECT_DIR$/pages/welcomePage.js" />
         <option value="$PROJECT_DIR$/test/devices.js" />
         <option value="$PROJECT_DIR$/test/broswer.js" />
         <option value="$PROJECT_DIR$/test/broswers.js" />
         <option value="$PROJECT_DIR$/test/env.js" />
-        <option value="$PROJECT_DIR$/test/test03.test.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/selenium_node/nodeconfig.json" />
+        <option value="$PROJECT_DIR$/selenium_node/package.json" />
+        <option value="$PROJECT_DIR$/test/test01.test.js" />
+        <option value="$PROJECT_DIR$/specs/welcomePage.gspec" />
+        <option value="$PROJECT_DIR$/test/test02.test.js" />
+        <option value="$PROJECT_DIR$/pages/welcomePage.js" />
+        <option value="$PROJECT_DIR$/pages/login_btn.js" />
+        <option value="$PROJECT_DIR$/test/hover.js" />
+        <option value="$PROJECT_DIR$/test/test03.test.js" />
+        <option value="$PROJECT_DIR$/test/test04.test.js" />
+        <option value="$PROJECT_DIR$/test/event.js" />
       </list>
     </option>
   </component>
@@ -171,7 +245,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1420" />
+    <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
   <component name="ProjectView">
@@ -191,6 +265,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,13 +316,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Reports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Galen-Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Galen-Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,18 +345,25 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$/specs" />
       <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/selenium_node" />
+      <recent name="$PROJECT_DIR$/specs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/selenium_node" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.report.html">
+    <configuration default="false" name="report.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Galen-Demo/Reports/report.html">
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -784,6 +879,14 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.report.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.report.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -798,16 +901,19 @@
       <workItem from="1516090147897" duration="56000" />
       <workItem from="1516090228509" duration="2162000" />
       <workItem from="1516092463949" duration="32740000" />
-      <workItem from="1516266128957" duration="351000" />
+      <workItem from="1516266128957" duration="2897000" />
+      <workItem from="1516271799365" duration="189000" />
+      <workItem from="1516272004362" duration="104000" />
+      <workItem from="1516272357903" duration="11907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35309000" />
+    <option name="totallyTimeSpent" value="50055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1420" height="828" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -817,26 +923,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38639456" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31428573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26311952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2722701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -846,10 +952,79 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/welcomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test01.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test02.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="7" lean-forward="false" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test03.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_node/nodeconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/galen.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -870,7 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +1080,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/env.js">
+    <entry file="file://$PROJECT_DIR$/test/event.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
@@ -950,11 +1124,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reports/layout-2-screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test1.test.js" />
     <entry file="file://$PROJECT_DIR$/specs/addNotePage.gspec" />
     <entry file="file://$PROJECT_DIR$/test/loginPage.test.js" />
@@ -965,7 +1134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,42 +1148,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/menuHighlight.gspec" />
-    <entry file="file://$PROJECT_DIR$/specs/welcomePage.gspec">
+    <entry file="file://$PROJECT_DIR$/selenium_node/nodeconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/broswers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/devices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/env.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1028,34 +1164,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/welcomePage.js">
+    <entry file="file://$PROJECT_DIR$/test/broswers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test03.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test02.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test01.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1063,11 +1175,120 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
+          <first_editor relative-caret-position="30">
             <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_node/nodeconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/welcomePage.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports/layout-2-screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/click_login_btn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/welcomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/devices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test01.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test02.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test04.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test03.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
