@@ -1,5 +1,3 @@
-
-//不同分辨率测试
 function Device(deviceName, size, tags) {
     this.deviceName = deviceName;
     this.size = size;

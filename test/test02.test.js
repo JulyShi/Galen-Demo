@@ -1,6 +1,5 @@
 load("../pages/welcomePage.js");
 
-//不同分辨率测试
 function Device(deviceName, size, tags) {
     this.deviceName = deviceName;
     this.size = size;
@@ -26,8 +25,8 @@ forAll(devices, function () {
             console.log("loginButton element don't exist")
         }
 
-        checkLayout(driver, "specs/welcomePage.gspec", [device.tags]); //Layout检查
-        driver.quit(); //添加关闭浏览器
+        checkLayout(driver, "specs/welcomePage.gspec", [device.tags]);
+        driver.quit();
     });
 
 });
@@ -49,7 +48,7 @@ forOnly(devices.desktop, function () {
             checkLayout(driver, "specs/welcomePage.gspec", ["hovered"]);
         });
 
-        driver.quit(); //添加关闭浏览器
+        driver.quit();
     });
 
 });

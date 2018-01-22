@@ -16,7 +16,7 @@ forAll(devices, function () {
             device.size,
             "chrome");
 
-        checkLayout(driver, "specs/welcomePage.gspec", [device.tags]); //Layout检查
-        driver.quit(); //添加关闭浏览器
+        checkLayout(driver, "specs/welcomePage.gspec", [device.tags]);
+        driver.quit();
     });
 });
